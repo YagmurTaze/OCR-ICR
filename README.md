@@ -15,6 +15,8 @@ Models/
    - 1_Model -> ICR Model for Handwriting Letters
    - 2_Model -> OCR Model for Handwriting Words
    - 3_Model -> OCR Model for Digital Words
+     
+<br>
 
 - 1_Handwriting_Letters -> Handwriting Letters Test
 - 2_Handwriting_Words -> Handwriting Words Test
