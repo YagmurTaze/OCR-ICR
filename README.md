@@ -1,4 +1,4 @@
-# Optical Character Recognition and Intelligent Character Recognition for Turkish
+# Optical Character Recognition and Intelligent Character Recognition for Turkish (Graduation Project)
 
 This project involves the development of an OCR (Optical Character Recognition) and ICR (Intelligent Character Recognition) system designed for Turkish handwriting recognition. The project uses TensorFlow and Keras to implement a CNN + LSTM model for recognizing handwritten characters and words.
 
