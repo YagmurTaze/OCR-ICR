@@ -11,6 +11,14 @@ This project aims to develop an OCR and ICR system capable of recognizing Turkis
    - TensorFlow 2.15.0
    - Keras 3.4.1
 
+Models/
+   - 1_Model -> ICR Model for Handwriting Letters
+   - 2_Model -> OCR Model for Handwriting Words
+   - 3_Model -> OCR Model for Digital Words
+
+- 1_Handwriting_Letters -> Handwriting Letters Test
+- 2_Handwriting_Words -> Handwriting Words Test
+
 <hr>
 
 ## Results
